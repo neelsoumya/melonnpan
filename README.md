@@ -1,6 +1,6 @@
 MelonnPan - Model-based Genomically Informed High-dimensional Predictor of Microbial Community Metabolic Profiles
 ================
-Himel Mallick
+
 2019-08-20
 
 -   [Introduction](#markdown-header-introduction)
